@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: lightslategray;
+}
+.container-biograf{
+    color: white;
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+}
